@@ -1,14 +1,109 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+[
+    {
+      "categoria": "bevande",
+      "id": 1,
+      "piatto": "1 litro acqua",
+      "prezzo": "2,00"
+    },
+    {
+      "categoria": "bevande",
+      "id": 2,
+      "piatto": "sprite",
+      "prezzo": "2,50"
+    },
+    {
+      "categoria": "bevande",
+      "id": 3,
+      "piatto": "coca cola",
+      "prezzo": "2,50"
+    },
+    {
+      "categoria": "bevande",
+      "id": 4,
+      "piatto": "fanta",
+      "prezzo": "2,50"
+    },
+    {
+      "categoria": "bevande",
+      "id": 5,
+      "piatto": "1/4 vino bianco",
+      "prezzo": "2,50"
+    },
+    {
+      "categoria": "bevande",
+      "id": 6,
+      "piatto": "1/4 vino rosso",
+      "prezzo": "2,50"
+    },
+    {
+      "categoria": "primi piatti",
+      "id": 7,
+      "piatto": "penne al pomodoro",
+      "prezzo": "5,00"
+    },
+    {
+      "categoria": "primi piatti",
+      "id": 8,
+      "piatto": "pasta all'amatriciana",
+      "prezzo": "6,50"
+    },
+    {
+      "categoria": "primi piatti",
+      "id": 9,
+      "piatto": "pasta alla siciliana",
+      "prezzo": "6,50"
+    },
+    {
+      "categoria": "primi piatti",
+      "id": 10,
+      "piatto": "risotto alla milanese",
+      "prezzo": "6,50"
+    },
+    {
+      "categoria": "secondi piatti",
+      "id": 11,
+      "piatto": "polenta con salsiccia",
+      "prezzo": "6,00"
+    },
+    {
+      "categoria": "secondi piatti",
+      "id": 12,
+      "piatto": "cotoletta impanata",
+      "prezzo": "6,00"
+    },
+    {
+      "categoria": "secondi piatti",
+      "id": 13,
+      "piatto": "cotoletta impanata",
+      "prezzo": "6,00"
+    },
+    {
+      "categoria": "secondi piatti",
+      "id": 14,
+      "piatto": "pesce spada",
+      "prezzo": "7,00"
+    },
+    {
+      "categoria": "dessert",
+      "id": 15,
+      "piatto": "tiramisù",
+      "prezzo": "3,50"
+    },
+    {
+      "categoria": "dessert",
+      "id": 16,
+      "piatto": "panna cotta",
+      "prezzo": "3,00"
+    },
+    {
+      "categoria": "dessert",
+      "id": 17,
+      "piatto": "sorbetto al limone",
+      "prezzo": "2,00"
+    },
+    {
+      "categoria": "dessert",
+      "id": 18,
+      "piatto": "strudel di mele",
+      "prezzo": "3,00"
+    }]
